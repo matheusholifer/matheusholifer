@@ -1,16 +1,12 @@
 ## Hi there 👋
 
-<!--
-**matheusholifer/matheusholifer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img src="./icons/Python-Dark.svg" alt="Python" width="60" />
+  <img src="./icons/Java-Dark.svg" alt="Java" width="60" />
+  <img src="./icons/PostgreSQL-Dark.svg" alt="PostgreSQL" width="60" />
+  <img src="./icons/PyCharm-Dark.svg" alt="PyCharm" width="60" />
+  <img src="./icons/Idea-Dark.svg" alt="Idea" width="60" />
+  <img src="./icons/VSCode-Dark.svg" alt="VSCode" width="60" />
+  <img src="./icons/Windows-Dark.svg" alt="Windows" width="60" />
+  <img src="./icons/Mint-Dark.svg" alt="Mint" width="60" />
+</div>
