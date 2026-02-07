@@ -21,11 +21,11 @@
   </a>
 
   <a href="https://www.instagram.com/matheusholifer/">
-    <img src="./icons/Instagram-Dark.svg" alt="Instagram" width="60" />
+    <img src="./icons/Instagram.svg" alt="Instagram" width="60" />
   </a>
 
   <a href="www.linkedin.com/in/matheushollifer">
-    <img src="./icons/Linkedln-Dark.svg" alt="LinkedIn" width="60" />
+    <img src="./icons/LinkedIn.svg" alt="LinkedIn" width="60" />
   </a>
 
 </div>
