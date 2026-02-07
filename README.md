@@ -24,7 +24,7 @@
     <img src="./icons/Instagram.svg" alt="Instagram" width="60" />
   </a>
 
-  <a href="www.linkedin.com/in/matheushollifer">
+  <a href="https://www.linkedin.com/in/matheushollifer/">
     <img src="./icons/LinkedIn.svg" alt="LinkedIn" width="60" />
   </a>
 
