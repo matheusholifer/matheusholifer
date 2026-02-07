@@ -1,4 +1,6 @@
-## Hi there 👋
+## 💻 Matheus Ferreira
+
+**`Análise de dados e Machine Learning (ML)`**
 
 ## Technologies and Tools
 
@@ -10,6 +12,13 @@
   <img src="./icons/Idea-Dark.svg" alt="Idea" width="60" />
   <img src="./icons/Windows-Dark.svg" alt="Windows" width="60" />
   <img src="./icons/Linux-Dark.svg" alt="Linux" width="60" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/matheusferreir4"> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusholifer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
+    <img height="180em" src="https://github-readme stats.vercel.app/api/top-langs/?username=matheusholifer&layout=compact&langs_count=8&theme=tokyonight"/> 
+  </a>
 </div>
 
 ## Contact
