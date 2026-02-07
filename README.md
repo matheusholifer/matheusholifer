@@ -14,12 +14,8 @@
   <img src="./icons/Linux-Dark.svg" alt="Linux" width="60" />
 </div>
 
-<div align="center">
-  <a href="https://github.com/matheusferreir4"> 
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusholifer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
-    <img height="180em" src="https://github-readme stats.vercel.app/api/top-langs/?username=matheusholifer&layout=compact&langs_count=8&theme=tokyonight"/> 
-  </a>
-</div>
+[![Estatísticas do GitHub de matheusholifer](https://github-readme-stats.vercel.app/api?username=matheusholifer&show_icons=true&theme=radial)](https://github.com/anuraghazra/github-readme-stats)
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusholifer&layout=compact&theme=radial)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact
 
