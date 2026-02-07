@@ -14,12 +14,8 @@
   <img src="./icons/Linux-Dark.svg" alt="Linux" width="60" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheusholifer&show_icons=true&theme=radial" alt="Estatísticas do GitHub" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusholifer&layout=compact&theme=radial" alt="Linguagens mais usadas" />
-</div>
-
+![Matheus Ferreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheushollifer&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusholifer&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 ## Contact
 
 <div>
