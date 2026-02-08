@@ -14,8 +14,6 @@
   <img src="./icons/Linux-Dark.svg" alt="Linux" width="60" />
 </div>
 
-![Matheus Ferreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheushollifer&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusholifer&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 ## Contact
 
 <div>
