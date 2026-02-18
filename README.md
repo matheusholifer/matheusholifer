@@ -6,7 +6,6 @@
 
 <div>
   <img src="./icons/Python-Dark.svg" alt="Python" width="60" />
-  <img src="./icons/Jupyter_logo.svg.png" alt="Python" width="60" />
   <img src="./icons/Java-Dark.svg" alt="Java" width="60" />
   <img src="./icons/Kotlin-Dark.svg" alt="Kotlin" width="60" />
   <img src="./icons/PyCharm-Dark.svg" alt="PyCharm" width="60" />
